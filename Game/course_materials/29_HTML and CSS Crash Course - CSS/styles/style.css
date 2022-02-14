@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+
+p, h5 {
+  border: 1px solid black;
+}
+
+.myClass {
+  color: green;
+}
+
+#my-id{
+  color:cyan;
+}

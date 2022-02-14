@@ -1,0 +1,20 @@
+p { background-color: green; }
+
+h3 { background-color: red; }
+
+strong { background-color: yellow; }
+
+.myContainer {
+    border: 10px solid red;
+    background-color: grey;
+    padding: 5px;
+}
+
+.myContainer h2, h4 {
+    color: blue;
+    text-align: center;
+}
+
+#city {
+    color: red;
+}
